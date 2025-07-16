@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91826733448",
+    "project_id": "kisansetu-498c1",
+    "storage_bucket": "kisansetu-498c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91826733448:android:893aada39f94399ddb7a3d",
+        "android_client_info": {
+          "package_name": "com.example.kisansetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91826733448-teus2qhv7m5fcua6e4k95vscf9inc08p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisansetu",
+            "certificate_hash": "5fbfe884896da45c88c9e486d04c84a1a100471d"
+          }
+        },
+        {
+          "client_id": "91826733448-6c82u4kuosis9e32ht062t0b50vjd5ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIFjsbuWHCtMAr77DI7jnFNddFmnIfmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91826733448-6c82u4kuosis9e32ht062t0b50vjd5ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
